@@ -1,27 +1,20 @@
 [
   {
     "name": "backg",
-    "file": "sample_backg.mp3",
+    "file": "samples/sample_backg.mp3",
     "bpm": "120",
     "loop": "1m",
-    "grainSize": 0.04,
-    "overlap": 0.01
   },
   {
     "name": "drumbeat",
-    "file": "sample_drum",
+    "file": "samples/sample_drum.mp3",
     "bpm": "120",
     "loop": "1m"
-    "grainSize": 0.04,
-    "overlap": 0.01
   }
   {
     "name": "riff",
-    "file": "sample_riff",
+    "file": "samples/sample_riff.mp3",
     "bpm": "120",
     "loop": "1m"
-    "grainSize": 0.04,
-    "overlap": 0.01
   }
-  
 ]

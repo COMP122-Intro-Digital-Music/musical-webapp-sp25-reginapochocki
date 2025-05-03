@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "name": "bubble land",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.095",
+        "attackCurve": "linear",
+        "decay": "0.155",
+        "decayCurve": "linear",
+        "release": "1.095",
+        "releaseCurve": "exponential",
+        "sustain": "0.605"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": 4,
+        "spread": 20
+      }
+    }
+  },
+  {
+    "name": "depressed robot",
+    "type": "Synth",
+    "settings": {
+      "volume": -8,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.215",
+        "attackCurve": "cosine",
+        "decay": "0.285",
+        "decayCurve": "exponential",
+        "release": "2",
+        "releaseCurve": "bounce",
+        "sustain": "0.605"
+      },
+      "oscillator": {
+        "partialCount": 9,
+        "partials": [
+          1.2732395447351628,
+          0,
+          0.4244131815783876,
+          0,
+          0.25464790894703254,
+          0,
+          0.18189136353359467,
+          0,
+          0.1414710605261292
+        ],
+        "phase": 0,
+        "type": "fatsquare9",
+        "count": 7,
+        "spread": 20
+      }
+    }
+  }
+]

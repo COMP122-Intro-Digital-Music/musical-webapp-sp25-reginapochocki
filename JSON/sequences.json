@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "name": "Sequence 0",
+    "loop": "3:3:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:2:2.0",
+        "pitch": "C#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:2.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "B4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "B4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
